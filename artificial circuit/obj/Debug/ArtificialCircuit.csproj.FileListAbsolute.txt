@@ -1,0 +1,10 @@
+E:\code\Artificial Circuit\artificial circuit\bin\Debug\artificial circuit.exe.config
+E:\code\Artificial Circuit\artificial circuit\bin\Debug\artificial circuit.exe
+E:\code\Artificial Circuit\artificial circuit\bin\Debug\artificial circuit.pdb
+E:\code\Artificial Circuit\artificial circuit\obj\Debug\ArtificialCircuit.csprojAssemblyReference.cache
+E:\code\Artificial Circuit\artificial circuit\obj\Debug\ArtificialCircuit.csproj.CoreCompileInputs.cache
+E:\code\Artificial Circuit\artificial circuit\obj\Debug\artificial circuit.exe
+E:\code\Artificial Circuit\artificial circuit\obj\Debug\artificial circuit.pdb
+E:\code\Artificial Circuit\artificial circuit\bin\Debug\Library.dll
+E:\code\Artificial Circuit\artificial circuit\bin\Debug\Library.pdb
+E:\code\Artificial Circuit\artificial circuit\obj\Debug\ArtificialCircuit.csproj.CopyComplete

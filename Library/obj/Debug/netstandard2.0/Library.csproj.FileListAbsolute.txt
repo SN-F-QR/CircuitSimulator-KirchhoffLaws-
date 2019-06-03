@@ -1,0 +1,16 @@
+E:\code\Artificial Circuit\Library\bin\Debug\netstandard2.0\Library.deps.json
+E:\code\Artificial Circuit\Library\bin\Debug\netstandard2.0\Library.dll
+E:\code\Artificial Circuit\Library\bin\Debug\netstandard2.0\Library.pdb
+E:\code\Artificial Circuit\Library\obj\Debug\netstandard2.0\Library.csprojAssemblyReference.cache
+E:\code\Artificial Circuit\Library\obj\Debug\netstandard2.0\Library.csproj.CoreCompileInputs.cache
+E:\code\Artificial Circuit\Library\obj\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
+E:\code\Artificial Circuit\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.cs
+E:\code\Artificial Circuit\Library\obj\Debug\netstandard2.0\Library.dll
+E:\code\Artificial Circuit\Library\obj\Debug\netstandard2.0\Library.pdb
+E:\code\Artificial Circuit\Library\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+E:\code\Artificial Circuit\Library\bin\Debug\netstandard2.0\System.Security.dll
+E:\code\Artificial Circuit\Library\bin\Debug\netstandard2.0\System.Configuration.dll
+E:\code\Artificial Circuit\Library\bin\Debug\netstandard2.0\Accessibility.dll
+E:\code\Artificial Circuit\Library\bin\Debug\netstandard2.0\System.Deployment.dll
+E:\code\Artificial Circuit\Library\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+E:\code\Artificial Circuit\Library\obj\Debug\netstandard2.0\Library.csproj.CopyComplete

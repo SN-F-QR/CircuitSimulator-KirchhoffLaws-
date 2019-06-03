@@ -1,0 +1,14 @@
+E:\code\Artificial Circuit\UIofAC\bin\Debug\UIofAC.exe.config
+E:\code\Artificial Circuit\UIofAC\bin\Debug\UIofAC.exe
+E:\code\Artificial Circuit\UIofAC\bin\Debug\UIofAC.pdb
+E:\code\Artificial Circuit\UIofAC\bin\Debug\Library.dll
+E:\code\Artificial Circuit\UIofAC\bin\Debug\Library.pdb
+E:\code\Artificial Circuit\UIofAC\obj\Debug\UIofAC.csprojAssemblyReference.cache
+E:\code\Artificial Circuit\UIofAC\obj\Debug\UIofAC.ArtificialCircuit.resources
+E:\code\Artificial Circuit\UIofAC\obj\Debug\UIofAC.Form2.resources
+E:\code\Artificial Circuit\UIofAC\obj\Debug\UIofAC.Properties.Resources.resources
+E:\code\Artificial Circuit\UIofAC\obj\Debug\UIofAC.csproj.GenerateResource.cache
+E:\code\Artificial Circuit\UIofAC\obj\Debug\UIofAC.csproj.CoreCompileInputs.cache
+E:\code\Artificial Circuit\UIofAC\obj\Debug\UIofAC.csproj.CopyComplete
+E:\code\Artificial Circuit\UIofAC\obj\Debug\UIofAC.exe
+E:\code\Artificial Circuit\UIofAC\obj\Debug\UIofAC.pdb

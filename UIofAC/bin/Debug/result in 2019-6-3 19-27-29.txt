@@ -1,0 +1,9 @@
+The KVL of the circuit:
+U0=U1+U4+U5
+U0=U2+U4+U5
+U0=U3+U5
+The KCL of the circuit:
+I0=I1+I2+I3
+I1+I2=I4
+I3+I4=I5
+I5=I0
